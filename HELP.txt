@@ -1,5 +1,6 @@
 cd D:\Dropbox\ada_test
 d:
+bash
 ls
 git add .
 git commit -m "new help"
