@@ -5,7 +5,7 @@ cd Dropbox/
 cd ada_test/
 ls
 JIACHENG135
-Heart@lulu135
+type youe psw
 git add .
 git commit -m "new help"
 git push origin master
