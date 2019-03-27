@@ -2,9 +2,17 @@ cd D:\Dropbox\ada_test
 d:
 bash
 ls
+<<<<<<< HEAD
 git pull origin master
 git add .
 git commit -m "new help"
 git push origin master
 JIACHENG135
 Heart@lulu135
+=======
+JIACHENG135
+type youe psw
+git add .
+git commit -m "new help"
+git push origin master
+>>>>>>> 528230c1e3c28e64be1a2e1c0d0202e7b5b5c794
