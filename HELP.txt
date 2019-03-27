@@ -1,11 +1,8 @@
-bash
-cd ..
-cd d
-cd Dropbox/
-cd ada_test/
+cd D:\Dropbox\ada_test
+d:
 ls
-JIACHENG135
-Heart@lulu135
 git add .
 git commit -m "new help"
 git push origin master
+JIACHENG135
+Heart@lulu135
