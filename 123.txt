@@ -1,0 +1,10 @@
+cd D:\Dropbox\ada_test
+d:
+bash
+ls
+git pull origin master
+git add .
+git commit -m "new help"
+git push origin master
+JIACHENG135
+Heart@lulu135
